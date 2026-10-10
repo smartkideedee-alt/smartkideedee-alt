@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="255" viewBox="0 0 1100 255" role="img" aria-labelledby="title desc">
+  <title id="title">AI music research workflow</title>
+  <desc id="desc">Composition prompts lead to model comparison, creativity evaluation, and interactive feedback.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#182c4b"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#46d9d0"/><stop offset="1" stop-color="#a890fb"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#a890fb"/></marker>
+  </defs>
+  <rect width="1100" height="255" rx="20" fill="#0d182d"/>
+  <text x="34" y="39" fill="#afc2e8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">RESEARCH WORKFLOW</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(34 70)"><rect width="228" height="132" rx="15" fill="url(#panel)" stroke="#39716f"/><circle cx="32" cy="33" r="17" fill="#1c6b70"/><text x="24" y="39" fill="white" font-size="18">1</text><text x="20" y="75" fill="white" font-size="19" font-weight="700">Composition prompt</text><text x="20" y="103" fill="#a8c3d5" font-size="14">Intent + theory constraints</text></g>
+    <g transform="translate(301 70)"><rect width="228" height="132" rx="15" fill="url(#panel)" stroke="#4c5a9b"/><circle cx="32" cy="33" r="17" fill="#4857a4"/><text x="24" y="39" fill="white" font-size="18">2</text><text x="20" y="75" fill="white" font-size="19" font-weight="700">LLM comparison</text><text x="20" y="103" fill="#a8c3d5" font-size="14">Outputs + reasoning patterns</text></g>
+    <g transform="translate(568 70)"><rect width="228" height="132" rx="15" fill="url(#panel)" stroke="#7762a6"/><circle cx="32" cy="33" r="17" fill="#7052a6"/><text x="20" y="39" fill="white" font-size="18">3</text><text x="20" y="75" fill="white" font-size="19" font-weight="700">Creativity review</text><text x="20" y="103" fill="#a8c3d5" font-size="14">Four evaluation dimensions</text></g>
+    <g transform="translate(835 70)"><rect width="228" height="132" rx="15" fill="url(#panel)" stroke="#a45d8b"/><circle cx="32" cy="33" r="17" fill="#a14f82"/><text x="20" y="39" fill="white" font-size="18">4</text><text x="20" y="75" fill="white" font-size="19" font-weight="700">Interactive assistant</text><text x="20" y="103" fill="#a8c3d5" font-size="14">Theory-aware feedback</text></g>
+  </g>
+  <g stroke="url(#line)" stroke-width="3" marker-end="url(#arrow)"><path d="M268 136h23"/><path d="M535 136h23"/><path d="M802 136h23"/></g>
+</svg>

@@ -16,10 +16,6 @@ I'm a Computer Science undergraduate at **The Hong Kong Polytechnic University**
 
 My URIS project explores **AI-driven music composition with theory-guided constraints and real-time interaction**. I compare how LLMs interpret composition prompts, evaluate outputs across **fluency, flexibility, elaboration, and originality**, and investigate whether deliberative reasoning changes their compositional choices.
 
-<div align="center">
-  <img src="./research-flow.svg" alt="Research flow: composition prompt, LLM comparison, creativity review, and interactive assistant" width="100%" />
-</div>
-
 ## Selected work
 
 ### 💡 AI product work · Futu Holdings

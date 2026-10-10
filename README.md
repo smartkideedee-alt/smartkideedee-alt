@@ -1,4 +1,4 @@
-# Hi, I'm Enlong Dong 👋
+# Hi, I'm DONG Enlong 👋
 
 I'm a Computer Science undergraduate at **The Hong Kong Polytechnic University** (Class of 2028). I work at the intersection of **AI, music, and product development**: studying how language models compose music, and turning AI tools into workflows people can actually use.
 

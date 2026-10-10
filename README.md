@@ -4,7 +4,7 @@ I'm a Computer Science undergraduate at **The Hong Kong Polytechnic University**
 
 ## About me
 
-- 🎓 BSc (Hons) in Computer Science at PolyU · cGPA **3.97/4.30** · **top 5 of 300** students
+- 🎓 BSc (Hons) in Computer Science at PolyU
 - 🔬 Undergraduate researcher in PolyU's **Undergraduate Research and Innovation Scheme (URIS)**, supervised by Dr. LIU Yan Fiona
 - 💡 Previously worked on AI music products at **Tencent Music Entertainment** and AI-enabled product workflows at **Futu Holdings**
 - 🌏 Based in Hong Kong and Shenzhen
@@ -16,10 +16,6 @@ I'm a Computer Science undergraduate at **The Hong Kong Polytechnic University**
 My URIS research explores how large language models interpret composition prompts and generate music. I compare models using a structured creativity framework covering **fluency, flexibility, elaboration, and originality**, and study whether deliberative reasoning changes their compositional choices. The project also investigates how to make an AI composition assistant interactive while respecting music-theory constraints.
 
 ## Selected work
-
-### [PM AI Toolkit](https://github.com/smartkideedee-alt/futu-pm-ai-toolkit)
-
-A public collection of Claude Code skills for product managers to turn natural-language requests into flowcharts, sequence diagrams, ER diagrams, user journeys, architecture diagrams, mind maps, and wireframes. It reflects my interest in making AI useful inside everyday product workflows.
 
 ### AI product work at Futu Holdings
 
@@ -40,4 +36,4 @@ PolyU Scholarship · Aaron Lam Scholarship · HKSAR Reaching Out Award · Dean's
 
 ## Connect
 
-📫 [smartkideedee@gmail.com](mailto:smartkideedee@gmail.com) · [GitHub](https://github.com/smartkideedee-alt)
+📫 [24110812d@connect.polyu.com](mailto:24110812d@connect.polyu.com) · [GitHub](https://github.com/smartkideedee-alt)
